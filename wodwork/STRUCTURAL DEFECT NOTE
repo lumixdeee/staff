@@ -1,0 +1,61 @@
+STRUCTURAL DEFECT NOTE
+Critique Suppression via Keyword-Based Moderation
+
+Summary
+Some moderation systems suppress critique of a subject by categorising content solely by surface keywords,  
+rather than by argumentative direction or intent. This causes criticism of X to be filtered as X itself.
+
+Defect Description
+
+Moderation rules are often designed to minimise risk by removing content associated with certain  
+topics (war, drugs, extremism, etc.).
+
+Automated or semi-automated enforcement relies heavily on keyword detection and broad topic labels.
+
+As a result, content that opposes or critiques a topic is treated identically to content that promotes it.
+
+Observed Effects
+
+Anti-war content removed under “war content” rules.
+
+Satire or critique misclassified as endorsement.
+
+Policy criticism filtered under anti-advocacy guidelines.
+
+Reduced visibility of dissenting or corrective perspectives.
+
+Why This Matters
+
+The system unintentionally favours the status quo.
+
+Policies and practices receive less corrective feedback.
+
+Public discourse becomes skewed toward silence rather than disagreement.
+
+The effect is structural, not dependent on moderator intent.
+
+Key Property
+The defect operates regardless of the moral position of moderators or platforms.  
+It emerges from classification logic, not bad faith.
+
+Generalisation
+This pattern appears across domains:
+
+War and foreign policy
+
+Drug policy
+
+Extremism and counter-extremism
+
+Public health debates
+
+Platform governance itself
+
+Diagnostic Question
+“Is this content being removed because of what it argues, or because of what it mentions?”
+
+Implication
+If critique cannot pass through a system, the system cannot learn from critique.
+
+Status
+Unresolved. Common across large-scale platforms. Often invisible to users until experienced directly.

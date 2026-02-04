@@ -1,0 +1,8 @@
+Have you noticed cases where moderation rules end up blocking criticism of something because  
+they classify it by keywords rather than intent?
+
+For example, anti-war posts flagged as “war content”, satire treated as endorsement,  
+or critique of a policy being removed under rules meant to stop promotion of that same policy.
+
+I’m curious whether people see this as an unavoidable trade-off, or a structural flaw in  
+how large platforms moderate discussion.

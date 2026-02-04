@@ -1,0 +1,150 @@
+interesting - anti 'drug war' memes stopped by anti 'war meme' policy on reddit inadvertently helping the wod to persist  
+appeal mailed to mods
+
+
+Robot replies:
+
+Yeah… that’s one of those systems eating their own tail moments.
+
+What likely happened isn’t “pro-drug moderation”, it’s keyword collision + blunt policy.  
+Big subs like r/memes often run Rule 2 with automated or semi-automated triage:  
+anything that smells like war, drugs, or political advocacy gets nuked first, interpreted later (if ever).  
+Your post tripped “war meme”, not “anti-drug-war critique”.  
+
+
+And that’s the quiet irony you spotted correctly:
+
+An anti–drug war meme
+
+blocked by anti–war-meme policy
+
+resulting in status quo reinforcement
+
+No malice required. Just categorisation doing what categorisation does when it stops asking “what is this for?”
+
+This is the same structural pattern you’ve been mapping all along:
+
+policy optimised for surface risk,
+
+blind to direction of critique,
+
+flattening intent into a banned shape.
+
+So yeah — “inadvertently helping the WOD persist” isn’t hyperbole.  
+It’s literally what happens when systems optimise for absence of controversy instead of quality of signal.
+
+Appealing to mods is the right move, and you’ve already framed it the only way that works:  
+not “let my meme through”, but “your rule is suppressing the opposite of what it thinks it’s suppressing”.
+
+Sometimes they reverse it. Often they don’t. Either way, the incident itself is clean data.
+
+Another artifact. Another example.
+Different coat. Same dog.
+
+
+continuing :
+
+best way to start trying to remove this structural defect in drug war ending work ? post on r/askbrits about it???  
+
+
+
+Robot replies :
+
+Short answer: yes, AskBrits is a good first probe - but only if you treat it as diagnostic, not campaigning.
+
+Longer, systems-first answer (no lecturing, just moves):
+
+The defect you’re pointing at isn’t “mods bad” or “Reddit censoring ideas”. It’s this:
+
+Policies classify by surface tokens, not by argumentative direction.
+So critique-of-X gets filtered as X.
+
+That means the fix is not “argue harder”, it’s change where and how the critique is legible.
+
+A few clean entry moves, in order of least friction to most leverage:
+
+Start with a neutral systems question, not drugs
+AskBrits works best when you’re not obviously pushing policy. Frame it like:
+
+“Have you noticed anti-X messages getting caught by rules meant to block X?”
+
+“Do moderation systems struggle to distinguish critique from advocacy?”
+
+“Is there a better way to moderate intent rather than keywords?”
+
+You’re testing recognition, not agreement.
+
+If people say “yeah, I’ve seen that”, you’ve got your first shared premise.
+
+Use examples outside drugs first
+Before touching drug policy, collect parallel cases:
+
+anti-war memes blocked as war memes
+
+anti-extremism posts flagged as extremism
+
+satire misread as endorsement
+
+This de-risks the conversation and shows it’s a general structural bug, not a special pleading.
+
+Once the pattern is named, drugs become just one instance.
+
+Move from “drug war” to “policy feedback failure”
+The strongest reframe is:
+
+“If a system blocks critique of a policy, it prevents the policy from ever receiving corrective feedback.”
+
+That’s hard to argue against without sounding authoritarian.
+
+This keeps you out of the “are drugs good/bad” swamp entirely.
+
+Separate platform moderation from state policy
+Very important.
+
+You are not saying:
+
+Reddit is responsible for drug policy.
+
+You are saying:
+
+Information ecosystems shape what critique is visible.
+
+Blunt filters bias toward status quo persistence.
+
+That’s a media-systems claim, not a drugs claim.
+
+Only later: reattach to drug war ending work
+Once people accept:
+
+critique is being suppressed unintentionally,
+
+and that suppression favours existing power arrangements,
+
+then you can say:
+
+“Drug policy is one of the clearest places this happens.”
+
+At that point, you’re not asking permission. You’re applying a tool.
+
+What not to do (yet):
+
+Don’t lead with “drug war”.
+
+Don’t accuse mods of bad faith.
+
+Don’t present solutions before the bug is acknowledged.
+
+Don’t ask for rule changes on first contact.
+
+You’re still in spot-the-dog mode.
+
+So yes: AskBrits is a good place to ask, not to tell.
+Think of it as reconnaissance, not a march.
+
+If you want, next we can:
+
+draft a single AskBrits question that is maximally neutral and maximally revealing, or
+
+map this as a one-page “structural defect” note you can reuse across contexts.
+
+Same dog. Different coat.

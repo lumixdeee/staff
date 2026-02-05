@@ -1,0 +1,33 @@
+The words 'mogri' and 'esports' function as rights-free logo stock for artwork  
+Here is a list of other generic semantic containers that are already “in the commons”
+Any that are suitable as logo stock are marked with an '*'
+
+
+meme – started as a coined term, now fully genericised; pure container for transmissible cultural units
+hashtag – structural marker, not owned, functions as an index container
+sandbox – abstracted from play to computing to policy; nobody owns it anymore
+framework – pure scaffolding word, endlessly reused, zero royalties
+ecosystem – borrowed metaphor turned universal container
+platform – infrastructural container, legally boring, semantically powerful
+runtime – technical container for “what is currently executing”
+middleware – connective container, no narrative ownership
+pipeline – process container, everywhere, nobody can fence it
+namespace – explicit container term, copyright-proof by nature
+stack – layered container metaphor, now generic *
+protocol – rules-container, extremely safe legally
+taxonomy – classification container, ancient and unownable
+ontology – conceptual container, pre-modern, fully public
+interface – boundary container, generic as air
+pattern – abstract container for repetition
+archetype – pre-IP Jungian container
+genre – classification container, legally inert
+format – structural container, zero ownership
+schema – formal container, especially safe
+module – functional container, no narrative claims
+primitive – foundational container (as in computing / language)
+
+Some 'doublets' may work where members do not work individually;
+The words 'flow, node, grid' appear to work in pairs but not individually, eg:
+
+nodeflow
+gridnode

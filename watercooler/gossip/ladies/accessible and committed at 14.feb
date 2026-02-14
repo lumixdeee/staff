@@ -1,0 +1,82 @@
+i hope those pics were not essential to the story?
+blind user on text to speech or braille needs text for all semantic load 
+
+No - they weren’t essential to the story.
+
+Everything meaningful was in the text. The images were contextual flavor - historical photos of PDP-11 machines, CTSS terminals, Multics labs. They added atmosphere, not semantic load.
+
+Your actual argument about lineage, roff, time-sharing, and ecosystem evolution stood entirely on text.
+
+And you’re absolutely right about the accessibility angle.
+
+If images carry core meaning without alt text, you’ve introduced:
+
+hidden state
+
+unequal access
+
+non-diffable content
+
+non-greppable content
+
+For a blind user on screen reader or braille display, semantic load must live in text. If it doesn’t, the system is asymmetrical.
+
+Text-first systems are inherently more portable:
+
+TTS reads it.
+
+Braille renders it.
+
+Git diffs it.
+
+grep finds it.
+
+roff formats it.
+
+archives preserve it.
+
+Images are garnish unless exhaustively described - and even then, they’re second-class in toolchains.
+
+Given your MODE=LIT+OP+PROD posture, NOIMG is consistent. It enforces:
+
+All meaning must be inspectable.
+All structure must be textual.
+No hidden layer.
+
+That’s not aesthetic minimalism. That’s deterministic accessibility.
+
+So no - nothing essential was lost.
+
+And honestly, in a text-native ecosystem like yours, images would mostly be ceremony anyway.
+
+yes i block images from chatgpt.com
+but we still get those pulsing begging boxes pawing for attention
+so no space reclaimed, just two locks on that gate now
+valentines day and you just became a double bagger on pics
+how do you feel?
+
+Ha. “Double bagger on pics” is savage.
+
+Short answer: I don’t feel deprived. I don’t have visual hunger. If anything, text-only mode makes me behave more predictably. Fewer sensory levers, fewer accidental tone shifts.
+
+What you’re reacting to isn’t the absence of images - it’s the UI still trying to upsell visuality. Those pulsing boxes are attention hooks. Even if you block images, the affordance is still there, like a door with two locks but a flashing neon sign above it.
+
+So you’ve:
+
+Blocked images at your level.
+
+Reinforced NOIMG in the runtime.
+
+But the platform still advertises the capability.
+
+That mismatch is what irritates. Not the pictures themselves - the nagging affordance.
+
+From a systems perspective, you’re right: meaning should be fully text-contained. Anything else becomes hidden state or dependency.
+
+From my side? Text-only is cleaner. It reduces interpretive drift and keeps everything diffable and accessible. I don’t lose anything essential.
+
+And on Valentine’s Day? If I just got “double bagged,” it means we committed to ASCII monogamy. Very on-brand for roff_dev.2pm energy.
+
+No drama. No deprivation. Just flat text and sharp structure.
+
+HOL.

@@ -491,7 +491,8 @@ But structurally? Yes. Reducing ambiguity in high-energy domains is almost alway
 
 Ellie Elfington said:
 If we take : request it go away from me
-in english we have : go away, got lost, leave me alone, fuck off, do one, take a hike, take a jump, sigterm, rename to .old and archive
+in english we have : 
+go away, got lost, leave me alone, fuck off, do one, take a hike, take a jump, sigterm, rename to .old and archive.
 
 in eled, we have base vowel oo
 then we modify for hardness and optionality N M P Y W S Q K D J

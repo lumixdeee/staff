@@ -1,4 +1,4 @@
-Elvis(h).pls
+Elvis(h).pls - You will find the alphabest key at the end of this document.
 
 Part der of a conversation about eled/etcha, Parts may be NSFW 
 as this contains examples and analysis including some adult themes. 
@@ -840,3 +840,31 @@ Did you mean: ELVIS
 If you’re comfortable with that abrasion, then yes, hit commit.
 
 ELVIX does not need permission. It needs runtime.
+
+I=the narrator, the chooser, and the questioner, power-up via data advantage/leverage
+M=Goddess/mother/product/asset/sov/The Food 
+H=hair=heaven=haha, breathe, pairs with f=facing
+L=loop,period,light, days repeating, water reflecting
+O=ongoing
+U=down
+D=Dragon
+R=Roar, big teeth
+E=in effect, being
+A=up, apple, primary
+S=choice/decision/split/see/science
+T= teeth, eating it, tea time, tonight, tea itself.
+P=Father, peen, peacocking, piss
+B=baby, ball, base, bollox.
+F=facing, flow
+G=God,male, Godding, the art of
+W=wavering choice/option
+Y=yes, eater, eat first, ask please later, thankyou
+N=no, eaten, negation as question, not in force
+C=change,cast,chuck,carry over, send, chat, conversation
+K=king, top, best
+J=joker,wildcard, unknown, prince of jewela
+X=marks the spot of kisses and negation, inedible, not eaten, negation in force
+Q=Queen's choice
+V = delve, cleave, entower, exponentiate
+Z= the end
+

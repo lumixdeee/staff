@@ -84,7 +84,7 @@
 -- 
 -- In those moments, most systems try to resolve anyway. 
 -- They pick the closest available box and push the situation into it. 
--- That creates clarity, but often at the cost of accuracy.
+-- That creates a false sense of resolution, but often at the cost of accuracy.
 -- 
 -- Mogri avoids that.
 -- 

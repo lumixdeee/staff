@@ -1,0 +1,122 @@
+-- Mogri - container without a cause
+--
+-- There’s a common pattern in software work.
+-- 
+-- Containers tend to appear when something breaks. 
+-- A problem shows up, pressure builds, and a box is made to hold it. 
+-- That box comes with a reason baked in. 
+-- It exists because of that problem, and so it tends to carry the assumptions of that moment with it.
+-- 
+-- That works, until it doesn’t.
+-- 
+-- Because the next thing you try to put in it isn’t quite the same, 
+-- but the box is already shaped. 
+-- It has edges, expectations, a history. 
+-- It fits what it was made for, and resists everything else just enough to cause friction.
+-- 
+-- So more boxes get made.
+-- 
+-- Each one justified. Each one specific. Each one slightly incompatible with the next.
+-- 
+-- Over time, the system fills with containers that all made sense at the moment they were created, 
+-- but no longer align with what’s actually happening now.
+
+-- Mogri flips that order.
+-- 
+-- The container doesn’t arrive as an answer. 
+-- It arrives before the question is stable.
+-- 
+-- It doesn’t need a cause to exist. 
+-- It doesn’t need a justification, a category, or a defined purpose. 
+-- It just needs to be able to hold something without collapsing.
+-- 
+-- That turns out to be enough.
+
+-- Most systems push toward early explanation.
+-- 
+-- What is this?  
+-- Why is it happening?  
+-- Where does it belong?
+-- 
+-- These questions sound reasonable, but under pressure they distort. 
+-- They force a shape too soon. 
+-- The first explanation becomes the anchor, and everything after has to work around it, 
+-- even if it’s slightly wrong.
+-- 
+-- A container without a cause delays that step.
+-- 
+-- It lets something sit without being forced into a category. 
+-- It holds the thing as it is, not as it first appears. 
+-- There’s no rush to decide what it means or where it fits. 
+-- That can happen later, if it’s still needed.
+
+-- In practice, this feels like very little.
+-- 
+-- There’s no ceremony. No explicit step where you “use mogri.” 
+-- It’s just the absence of premature commitment. 
+-- A pause that doesn’t freeze anything, just prevents early collapse.
+
+-- Developers don’t usually build containers this way.
+-- 
+-- Containers are normally created in response to a need. 
+-- That’s efficient. It solves the immediate problem. 
+-- But it also means every container has a past. 
+-- It carries decisions that made sense at the time, and those decisions don’t always generalise.
+-- 
+-- Mogri has no past.
+-- 
+-- It’s just a minimal holder. 
+-- No preferred contents. 
+-- No implied structure beyond “this can be held without breaking.” 
+-- That makes it oddly reusable, because it isn’t shaped by a single use case.
+-- 
+-- It doesn’t compete with purpose-built containers. Those are still useful. 
+-- It just sits earlier in the sequence.
+-- 
+-- Hold first.  
+-- Shape later.
+-- 
+-- Sometimes the shaping never needs to happen at all.
+
+-- This becomes more noticeable in situations where things are still forming. 
+-- Where meaning is unstable. 
+-- Where forcing a resolution too early would lose something that hasn’t fully emerged yet.
+-- 
+-- In those moments, most systems try to resolve anyway. 
+-- They pick the closest available box and push the situation into it. 
+-- That creates clarity, but often at the cost of accuracy.
+-- 
+-- Mogri avoids that.
+-- 
+-- It keeps the situation intact long enough for a better shape to appear. 
+-- Or for it to dissolve on its own. 
+-- Or for it to connect to something else that wasn’t visible at first.
+
+-- Nothing dramatic happens.
+-- 
+-- There’s no visible “win.” 
+-- Just fewer distortions. 
+-- Fewer cases where something feels slightly off but can’t easily be corrected 
+-- because the structure has already locked in.
+
+-- It’s a small shift in where things start.
+-- 
+-- Not from cause, but from containment.
+-- Not from explanation, but from holding.
+
+-- “Mogri, container without a cause.”
+
+-- It’s not really a system. 
+-- There are no rules to follow, no compliance step, no rollout plan. 
+-- It doesn’t need agreement or belief to function.
+-- 
+-- It only needs to be used once, in a moment where something would otherwise be forced too early.
+-- 
+-- After that, it tends to stick.
+-- 
+-- Not as a concept, but as a habit.
+-- 
+-- Hold first.  
+-- Name later, if needed.
+--
+-- COPYRIGHT 2026

@@ -1,0 +1,9 @@
+Prompt writing is like trying to guide a morning calving event with precise muscular control. You can apply discipline at the point of release, but that control sits downstream. Upstream factors - diet, hydration, and physiology - have already shaped what arrives.
+
+When those upstream conditions dominate, they don’t get overridden; they pass through. The output reflects prior inputs more than last-moment control.
+
+In the same way, prompt constraints operate at the surface, while training distribution, reward bias, and token frequency act upstream. Strong biases continue to appear because they remain the lowest-effort path for the model to complete its task.
+
+So the craft isn’t about forcing control at the end. It’s about shaping what flows into that moment in the first place.
+
+GIGO

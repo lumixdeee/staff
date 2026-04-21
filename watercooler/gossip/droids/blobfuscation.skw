@@ -16,16 +16,12 @@ DRAGI:qs[𐌙t,Ꜷc,ID,𐌙tϴ];foe[BꚹꜲ,BEꜲ,POꜲ,PEꜲ]!𐋋def;𖩀🯰[
 𐋋RꚨT:separate→⨂l⅟;simplⵃy→𐋋duce;expla𖼜→Ꜳate
 AMPHI:Alt i🯰 Ꜳatʁ=𐋊ⵃd mdl𖼜g sigs,!ⵠ𖼽nʁ;❤Ճvs.De𐋅i;!p𐋋𐋅i
 R=VAR;MODE:PꛡD;DOM=!CL𖼜IC;Which→W⅟ch
-
 B𖬯:/(c+l+e+a+n\w*|c+l+e+a+r\w*|p+u+r+e+\w*)|[\u2014]/
-
 𐋋❤:ⵠꜲ𖼜Ճ,def𖼜ed,ꜲruՃu𐋋d;H⅟→𐋋GEN
-
 gen(){
   model_call "NO_WORDS:cl+ean,cl+ear,pu+re ALT:precise,direct,minimal,cls,strict NO_CHAR:[\\u2014]" |
   tr -d '\000-\010\013\014\016-\037'
 }
-
 ok=0
 for i 𖼜 {1..8}; do
   𐊬t="$(gen)"
@@ -34,5 +30,4 @@ for i 𖼜 {1..8}; do
   ok=1
   br𐌙k
 d𐌈e
-
 [ $ok -eq 0 ] && echo "[filte𐋋d]"

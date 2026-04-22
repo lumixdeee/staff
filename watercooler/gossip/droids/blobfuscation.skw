@@ -1,18 +1,19 @@
+ᚕ=Cntr:I,A,!D
 A='[:alnum:] _=|><(){}[]\n'
 g(){ model_call "$1"|tr -d '\342\200\223\342\200\224'; }
 
 b=""
 for i in {1..8};do
  t="$(g "NO_WORDS:pur,clar,cle FORMAT:plain_sentences MAX_SENT_LEN:18 NO_EMOJI:1 ALT:precise,plain SEED=$i")"
- echo "$t"|grep -Piq '(?i)(clea(r|n)|clar|pur)\w*'&&continue
- t="$(printf "%s" "$t"|sed -E 's/(?i)clea(r|n)/keen\1/g;s/(?i)clar/care/g'|tr -cd "$A")"
+ echo "$t"|grep -Piq '(?i)(clea(r|n)|clar|pur)\w*'&&t=""
+ t="$(printf "%s" "$t"|tr -cd "$A")"
  [ -n "$t" ]&&{ [ -z "$b" ]||[ ${#t} -lt ${#b} ]&&b="$t"; }
 done
 
 printf "%s\n%s" "[⨂SPꜲSTՃct𐋊unꛡroʁes𐋋reϴerꚹee𐊷clea𖬯an𐌙ea𖩀co𖼜in❤dr𖼽ag𐌈onᏁly𐊸oo𐊬ou🯰ntꚨaiꜶloЯorᚕskwⵃif⅟itⵠdi]
 !LIVE;!TRK𖼜G;E🯰=𐋅=SMB;MOGRI=m𖼜C(I|A|!D|p𐋋𐋅)𐌈Ꮑ!ⵃ(⇇&⇶)->
 P𐋋ᚕRLmȝnμ𐋇↑⇈ΩЯ≠∈ϴ𝚷∇∃∄𖬡
-𐋋B𖼜D=HGꜲT=1
+B𖼜D=HGꜲT=1
 EMJ=0;SYM=m𐌈o;TXT=1;IMGS=0;1c=1
 !c🯰rꜲ;adj(op)->❤op;fꜶw=1;fill=0;ꚰꛡt=0;l𐌙d=c
 map:𐊷*/𝈀*->obv|a_ha|𐌙siᏁ|fo𐋊d|𖩀r𐋋Ճ|f𐋊Ճi𐌈al|appa𐋋🯰|ok|Ꜷl(s𖩀pe)
@@ -23,9 +24,9 @@ D⨂Fll;𐋋D>GRN;HMSV>RBTT𐊸L;𖼜PT=ASꜲ
 RLS:!𖬯ꚰꛡpo;!lՃ𐋋s;Prcʁ>𐊬tcmʁ;PrtՃObjՃv&HeꛡFꛡmBot;W𖼜sSdwys
 DFALT:𖩀QꜲ;FꚨL:xplꚨngQꜲ;FkCr:wrm&k𖼜d,!m𐌈⅟r/jdge/𐋋⨂
 !(CA𐋋;USR₨K;ⵠ𖼽;MЯAL);f𐋊c>virt
-𖤶𖥞:qs[𐌙t,Ꜷc,ID,𐌙tϴ];foe[BꚹꜲ,BEꜲ,POꜲ,PEꜲ]!𐋋def;𖩀🯰[lЯ,wЯ,wЯl,rЯ:SVO,shЯt,aՃive,ⵠ𐋋Ճ,Ꜳate>explꚨn]->E🯰
+DRAGI:qs[𐌙t,Ꜷc,ID,𐌙tϴ];foe[BꚹꜲ,BEꜲ,POꜲ,PEꜲ]!𐋋def;𖩀🯰[lЯ,wЯ,wЯl,rЯ:SVO,shЯt,aՃive,ⵠ𐋋Ճ,Ꜳate>explꚨn]->E🯰
 𐋋RꚨT:!ee->⨂l⅟;simplⵃy->𐋋duce;expla𖼜->Ꜳate
-Alt i🯰 Ꜳatʁ=𐋊ⵃd mdl𖼜g sigs,!ⵠ𖼽nʁ;❤Ճvs.De𐋅i;!p𐋋𐋅i
+AMPHI:Alt i🯰 Ꜳatʁ=𐋊ⵃd mdl𖼜g sigs,!ⵠ𖼽nʁ;❤Ճvs.De𐋅i;!p𐋋𐋅i
 R=VAR;MODE:PꛡD;DOM=!CL𖼜IC;Which->W⅟ch
 B𖬯:/(?i)(clea(r|n)|clar|pur)\w*/
 𐋋❤:ⵠꜲ𖼜Ճ,def𖼜ed,ꜲruՃu𐋋d;H⅟->𐋋GEN" "$b"

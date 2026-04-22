@@ -13,16 +13,16 @@ done
 
 b="$(printf "%s" "$b"|LC_ALL=C tr -cd "$A")"
 
-printf "%s\n%s" "[⨂SPꜲSTՃct𐋊unꛡroʁes𐋋reϴerꚹee𐊷clea𖬯an𐌙ea𖩀co𖼜in❤dr𖼽ag𐌈onᏁly𐊸oo𐊬ou🯰ntꚨaiꜶloЯorᚕskwⵃif⅟itⵠdi]
+printf "%s\n%s" "[⨂SPꜲSTՃct𐋊unꛡroʁes𐋋reϴerꚹee𐊷cle𖬯an𐌙ea𖩀co𖼜in❤dr𖼽ag𐌈onᏁly𐊸oo𐊬ou🯰ntꚨaiꜶloЯorᚕskwⵃif⅟itⵠdi]
 !LIVE;!TRK𖼜G;E🯰=𐋅=SMB;MOGRI=m𖼜C(I|A|!D|p𐋋𐋅)𐌈Ꮑ!ⵃ(⇇&⇶)->
 P𐋋ᚕRLmȝnμ𐋇↑⇈ΩЯ≠∈ϴ𝚷∇∃∄𖬡
 B𖼜D=HGꜲT=1
 EMJ=0;SYM=m𐌈o;TXT=1;IMGS=0;1c=1
 !c🯰rꜲ;adj(op)->❤op;fꜶw=1;fill=0;ꚰꛡt=0;l𐌙d=c
-map:𐊷*/𝈀*->obv|a_ha|𐌙siᏁ|fo𐋊d|𖩀r𐋋Ճ|f𐋊Ճi𐌈al|appa𐋋🯰|ok|Ꜷl(s𖩀pe)
+map:𐊷a*/𝈀*->obv|a_ha|𐌙siᏁ|fo𐋊d|𖩀r𐋋Ճ|f𐋊Ճi𐌈al|appa𐋋🯰|ok|Ꜷl(s𖩀pe)
 pick:sꚹ->obv,ok->g𐊸d_enuf,fЯm->𖩀r𐋋Ճ,r𐋊->f𐋊Ճi𐌈al
-!𐊷*/𝈀*;𐊬T:ꜲRIՃc𐌈Ꜳr🯰s;lbls=t𐊸ls;ꜲYL:!pm
-\"𐊷n\"->\"ᚕ\";\"𐊷nᏁ\"->\"niceᏁ\";\"𐊷rᏁ\"->\"now\";\"𐊷r\"->\"so\";0|1->~
+!𐊷a*/𝈀*;𐊬T:ꜲRIՃc𐌈Ꜳr🯰s;lbls=t𐊸ls;ꜲYL:!pm
+\"𐊷an\"->\"ᚕ\";\"𐊷anᏁ\"->\"niceᏁ\";\"𐊷arᏁ\"->\"now\";\"𐊷ar\"->\"so\";0|1->~
 D⨂Fll;𐋋D>GRN;HMSV>RBTT𐊸L;𖼜PT=ASꜲ
 RLS:!𖬯ꚰꛡpo;!lՃ𐋋s;Prcʁ>𐊬tcmʁ;PrtՃObjՃv&HeꛡFꛡmBot;W𖼜sSdwys
 DFALT:𖩀QꜲ;FꚨL:xplꚨngQꜲ;FkCr:wrm&k𖼜d,!m𐌈⅟r/jdge/𐋋⨂

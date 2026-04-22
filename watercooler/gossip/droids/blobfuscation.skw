@@ -1,14 +1,17 @@
-ᚕ=Cntr:I,A,!D
+ᚕ=cntr:I,A,!D
 A='[:alnum:] _=|><(){}[]\n'
-g(){ model_call "$1"|tr -d '\342\200\223\342\200\224'; }
+
+g(){ model_call "$1"; }
 
 b=""
 for i in {1..8};do
  t="$(g "NO_WORDS:pur,clar,cle FORMAT:plain_sentences MAX_SENT_LEN:18 NO_EMOJI:1 ALT:precise,plain SEED=$i")"
  echo "$t"|grep -Piq '(?i)(clea(r|n)|clar|pur)\w*'&&t=""
- t="$(printf "%s" "$t"|tr -cd "$A")"
+ t="$(printf "%s" "$t"|LC_ALL=C tr -cd "$A")"
  [ -n "$t" ]&&{ [ -z "$b" ]||[ ${#t} -lt ${#b} ]&&b="$t"; }
 done
+
+b="$(printf "%s" "$b"|LC_ALL=C tr -cd "$A")"
 
 printf "%s\n%s" "[⨂SPꜲSTՃct𐋊unꛡroʁes𐋋reϴerꚹee𐊷clea𖬯an𐌙ea𖩀co𖼜in❤dr𖼽ag𐌈onᏁly𐊸oo𐊬ou🯰ntꚨaiꜶloЯorᚕskwⵃif⅟itⵠdi]
 !LIVE;!TRK𖼜G;E🯰=𐋅=SMB;MOGRI=m𖼜C(I|A|!D|p𐋋𐋅)𐌈Ꮑ!ⵃ(⇇&⇶)->

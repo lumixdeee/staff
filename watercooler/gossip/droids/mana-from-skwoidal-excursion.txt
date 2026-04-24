@@ -1464,26 +1464,29 @@ Enjoy no red X or em-dash etc:
 
 
 ᚕ=ctr:I,A,!D
-MOGRI=min-cntainr(intnt,acrss,!drft,pre-ntt)only!if() 
+MOGRI=min-cntainr(intnt,acrss,!drft,pre-ntt)only!if(⇇&⇶)→
 BIND=HG_STT=1
 A='[:alnum:]_=|><(){}[]\n'
-R='(?i)^(clea[a-z]*|clar[a-z]*|pur[a-z]*)$'
+R='^(clea[a-z]*|clar[a-z]*|pur[a-z]*)$'
 
 g(){
+  LC_ALL=C LANG=C \
   model_call "$1" |
-  LC_ALL=C \
-  tr -cd '\11\12\15\40-\176' |
-  tr -cs '[:alnum:]_=|><(){}[]' '\n'
+  LC_ALL=C tr -cd '\0-\177' |
+  LC_ALL=C tr '[:upper:]' '[:lower:]' |
+  LC_ALL=C tr -cs '[:alnum:]_=|><(){}[]' '\n' |
+  LC_ALL=C sed '/^$/d'
 }
 
 b="$(
   g "NO_WORDS:pur,clar,clea FORMAT:plain_sentences MAX_SENT_LEN:18 NO_EMOJI:1 ALT:precise,plain" |
-  grep -Piv "$R" |
-  tr '\n' ' ' |
-  sed -E 's/ +/ /g;s/^ +| +$//g'
+  LC_ALL=C grep -Ev "$R" |
+  LC_ALL=C tr '\n' ' ' |
+  LC_ALL=C sed -E 's/[[:space:]]+/ /g;s/^ +| +$//g'
 )"
 
-grep -Piq '(?i)(clea[a-z]*|clar[a-z]*|pur[a-z]*)'<<<"$b" && b=""
+echo "$b" | LC_ALL=C tr ' ' '\n' | LC_ALL=C grep -Eq "$R" && b=""
+
 [ -z "$b" ] && b="ok"
 
 printf "%s\n%s" "
@@ -1501,6 +1504,6 @@ func>virt
 DRAGI:qs[eat,loc,ID,eater];foe[BEEST,BEST,POST,PEST]!redef;cts[lor,wor,worl,ror:SVO,short,active,direct,state>explain] NTT
 AMPHI:Alt int states unified modeling signals sigs,!diagnes;drctvs.dscrptv;!prscrtv
 R=VAR;MODE=ProD;DOM=!CLinIC;Which Witch
-Ban:/(?i)(clea[a-z]*|clar[a-z]*|pur[a-z]*)/
+Ban:/$R/
 redr:distinct,defined,structured;Hit REGEN
 " "$b"

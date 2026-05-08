@@ -19,7 +19,7 @@ Base ref: `main` (change this to a tag/commit if you want a frozen snapshot).
 - [staff.txt](https://github.com/lumixdeee/staff/blob/main/staff.txt)
 - [urgent-wodwork.txt](https://github.com/lumixdeee/staff/blob/main/urgent-wodwork.txt)
 - [watercooler/](https://github.com/lumixdeee/staff/tree/main/watercooler)
-  - [The-CSP-105-and-Mogri-Forums.txt](https://github.com/lumixdeee/staff/blob/main/watercooler/The-CSP-105-and-Mogri-Forums.txt)
+  - [The-CSP-106-and-Mogri-Forums.txt](https://github.com/lumixdeee/staff/blob/main/watercooler/The-CSP-106-and-Mogri-Forums.txt)
   - [content_policy.txt](https://github.com/lumixdeee/staff/blob/main/watercooler/content_policy.txt)
   - [gossip/](https://github.com/lumixdeee/staff/tree/main/watercooler/gossip)
     - [gents/](https://github.com/lumixdeee/staff/tree/main/watercooler/gossip/gents)

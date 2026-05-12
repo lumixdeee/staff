@@ -1,0 +1,113 @@
+[Data Loss - Critical AND Urgent]
+
+  Chrome may silently fail to back up long ChatGPT threads using Print, PDF save, or cut and paste.
+
+Posting this as a user-warning and reproduction-gathering thread.
+
+Issue:
+
+Long ChatGPT conversations may not copy or export reliably in Chrome.
+
+This matters because the failure can look successful. You may think you backed up a long project thread, but the pasted/exported artifact may be incomplete.
+
+My setup:
+
+Chrome 148 on Linux / LMDE 7
+
+Long ChatGPT conversation
+
+Reproduces in Incognito with extensions disabled
+
+Does not reproduce in Firefox on my machine
+
+What happens:
+
+Ctrl+A / Ctrl+C does not reliably copy the whole conversation.
+
+In my test, pasted text began partway through the thread instead of at the first message. It also included sidebar/UI text.
+
+Chrome Print / Save as PDF also failed.
+
+The PDF contained the beginning of the conversation and a later section, but the middle was missing.
+
+This means it is not only a keyboard shortcut issue. It affects at least two user-facing backup routes.
+
+Another user reproduced a related failure:
+
+Chrome on Windows 11
+
+Long ChatGPT thread
+
+Ctrl+A / Ctrl+C pasted into Notepad and Google Docs
+
+Result was not usable as a backup
+
+Google Docs mostly captured a ChatGPT link / UI-like content
+
+Notepad captured scattered fragments such as file names, image-generation notices, and recent conversation pieces
+
+Markers from beginning, middle, later, and latest sections were missing
+
+Likely mechanism:
+
+A commenter said ChatGPT recently introduced paging / partial loading for long conversations, where only part of the thread is loaded and more content loads as you scroll.
+
+That may explain the behavior.
+
+But even if paging is intended for performance, silent partial backup is still a bug from the user side.
+
+If Ctrl+A only copies the mounted portion, the app should warn the user.
+
+If Print / Save as PDF only renders loaded portions, the app should warn the user.
+
+If the full thread exists server-side, there should be a first-party per-thread export button.
+
+Why this is serious:
+
+For long-form project work, ChatGPT threads can become working archives: decisions, drafts, code, reasoning, rejected options, research notes, and context.
+
+The worst case is not “no backup.”
+
+The worst case is an incomplete backup that looks complete.
+
+Current workaround:
+
+Do not trust Chrome copy or Chrome PDF export for long ChatGPT threads unless you verify the result.
+
+Test your backup by checking:
+
+first message
+
+middle marker
+
+later marker
+
+final message
+
+Firefox currently works better for me, but still verify every dump.
+
+Shared links are not a private local archive.
+
+Account-wide export is not an immediate per-thread backup.
+
+Please test:
+
+Browser and version
+
+OS
+
+Long or short thread
+
+Copy target, for example Notepad, text editor, Google Docs
+
+Whether Ctrl+A / Ctrl+C gets first, middle, later, and final markers
+
+Whether Print / Save as PDF includes the whole thread
+
+Whether Firefox behaves differently
+
+Suggested phrase for reporting to OpenAI:
+
+Silent partial backup/export failure in long ChatGPT conversations on Chrome.
+
+Reported to OpenAI support already. More repro reports will help show this is not one user’s setup.

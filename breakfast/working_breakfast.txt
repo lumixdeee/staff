@@ -29,7 +29,7 @@ Critique becomes vague - “this sucks,” “I don’t get it,” “why though
 Defenders cannot articulate defense without sounding like they missed the joke
 
 Importantly: bolloxification is not about quality. Good objects bolloxify all the time.  
-In fact, only good-enough objects can bolloxify. Bad ones just fail cleanly.
+In fact, only good-enough objects can bolloxify. Bad ones just fail.
 
 
 Bolloxification happens when:
@@ -45,7 +45,7 @@ That’s why people reach for insults, labels, or blanket bans.
 Those are emergency tools for dealing with bolloxified things.  
 The system is trying to stop the wobble.
 
-So if we define it cleanly:
+So if we define it thus:
 
 Bolloxification is the process by which an object loses its affordances faster than it loses its visibility.
 

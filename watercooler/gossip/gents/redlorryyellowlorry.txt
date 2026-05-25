@@ -9,9 +9,9 @@ UK context, so we are talking about Great Britain STATS19 police-recorded injury
 
 Two important gotchas up front:
 
-Roadside drug testing changes detection/enforcement. It does NOT automatically give you a clean “before/after” safety-causal read without careful modelling.
+Roadside drug testing changes detection/enforcement. It does NOT automatically give you a real “before/after” safety-causal read without careful modelling.
 
-Public STATS19 open data does not directly label “long distance” drivers. The closest proxy you can do cleanly is “collisions involving at least one HGV (goods vehicle over 3.5t)”.
+Public STATS19 open data does not directly label “long distance” drivers. The closest proxy you can do is “collisions involving at least one HGV (goods vehicle over 3.5t)”.
 
 What I can give you immediately, with hard numbers, is:
 A) HGV traffic exposure (billion vehicle miles) for many years (1993-2024), and
@@ -70,7 +70,7 @@ To do “before” properly (say 2010-2014, or longer), you need either:
 
 In this chat environment I can’t reliably pull the older per-year files the same way I pulled the “last 5 years” extract, and downloading the full 1979-latest pair is the heavy route.
 
-If you want the maximal year coverage yourself (and it is genuinely the cleanest route):
+If you want the maximal year coverage yourself:
 
 Use the DfT “Collisions - 1979 - Latest Published Year” + “Vehicles - 1979 - Latest Published Year” files, then:
 
@@ -92,7 +92,7 @@ I'm trying to establish if there is any meaningful change before and after
 
 reply:
 
-Short answer, said plainly: there is no clear, meaningful step-change in HGV (long-distance lorry) safety outcomes that lines up with the introduction of roadside drug testing in 2015.
+Short answer, said plainly: there is no meaningful step-change in HGV (long-distance lorry) safety outcomes that lines up with the introduction of roadside drug testing in 2015.
 
 Long answer, but still grounded and boring-in-a-good-way:
 
@@ -117,7 +117,7 @@ By the time you reach 2010–2014, HGV fatal-collision rates are already relativ
 In interrupted-time-series terms: the level change ≈ zero, slope change ≈ zero.
 
 Post-2015 numbers are flat, not transformative
-Using the cleanest recent period (2020–2024) as a sanity check:
+Using the recent period (2020–2024) as a sanity check:
 
 Fatal HGV-involved injury collisions per billion HGV miles sit roughly between ~10.5 and ~11.7
 
@@ -167,6 +167,6 @@ If your question is:
 “Did roadside drug testing produce a meaningful, population-level improvement in long-distance lorry safety in the UK?”
 
 The evidence points to:
-No clear signal. If there is an effect, it is small compared to long-term trends and other risk factors, and not detectable as a clean before/after change.
+No good signal. If there is an effect, it is small compared to long-term trends and other risk factors, and not detectable as a before/after change.
 
 -------end of analysis-------

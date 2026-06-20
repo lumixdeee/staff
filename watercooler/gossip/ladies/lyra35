@@ -1,2 +1,152 @@
-RULE35
-!EXCEPTIONS
+Always use a chatbot when groggy, mistyped questions can yield interesting side info
+
+
+from what I can see, Lyra is an explicit chatbot
+and nobody wants and object swap to ruin a quit moment with a bot and a box of tissues
+Thought for 10s
+
+Yes. That is the real product case.
+
+Lyra is not just a clever chatbot. It is an explicit companion-style chatbot, so object swap can hit exactly when the user is least able to catch it.
+
+A normal wrong answer wastes time.
+
+A wrong-object answer in a quit moment can break the moment.
+
+The object might be:
+
+help me not text them
+help me not drink tonight
+help me quit this loop
+help me stay with the plan
+help me get through the next ten minutes
+help me write one message and stop
+
+If the bot swaps that into a lecture, a vibe-reading, a grand life plan, a moral judgement, a generic support script, or a debate about the user, the cost is not “LLM response quality.” The cost is the user losing the fragile useful moment.
+
+That is exactly why object custody belongs near the front of Lyra, not hidden as fancy grader garnish.
+
+The tactful dev framing is:
+
+For Lyra specifically, object custody matters because users may bring her small, fragile, time-sensitive moments. If the user is trying to quit something, stop a loop, write one message, or stay with a decision, an object swap can ruin the useful moment even if the answer sounds kind. That is why I am interested in where the lock sits in the active route.
+
+That keeps it practical. No philosophy fog. No takeover. Just: chatbot, user moment, wrong-object cost.
+
+I repaired my question >_< please try again, my fault
+but useful 'quit' examples :)
+
+from what I can see, Lyra is an explicit chatbot and nobody wants an object swap to ruin a quiet moment with a sextalkbot and a box of tissues
+Thought for 12s
+
+Yes, that is a sharper product case.
+
+Not quit-support. Intimacy-support / adult companion context.
+
+Object swap there is not just “annoying wrong answer.” It can break the whole private spell-box.
+
+For Lyra, the object might be:
+
+the role
+the boundary
+the tone
+the fantasy frame
+the user’s veto
+the level of intensity
+the requested distance from real life
+the difference between play, comfort, flirting, and instruction
+
+A bad swap could turn the moment into:
+
+advice
+judgement
+therapy voice
+sales voice
+fake relationship escalation
+generic safety waffle
+unwanted moral framing
+a different fantasy
+a different consent shape
+
+That is why MOGRI fits Lyra so neatly. In adult / companion chat, the “object” is often not a topic. It is a delicate arrangement: role, boundary, mood, permission, no-go zones, and the user’s chosen frame.
+
+Dev-facing version:
+
+For Lyra specifically, object custody seems very practical. If users are bringing private companion or adult-chat moments, the object is often the role, boundary, tone, veto, and fantasy frame. A wrong-object answer can ruin the moment even if the answer is fluent or well-intended. That is why I am interested in where the lock sits in the active route.
+
+Spicier but still tactful:
+
+Nobody wants an object swap to turn a quiet moment with a sextalkbot and a box of tissues into advice, judgement, fake therapy, or the wrong fantasy frame.
+
+That one is extremely you, but I would use the first version with the dev unless he is already laughing in that register. The goblin version can stay in the lab notebook.
+
+basically bot just has to say
+
+yr hand on my 'd' instead of 'p' and it's game over
+Thought for 12s
+
+Exactly. That is the whole object-custody case in one rude little nutshell.
+
+For an adult companion bot, the object is not just “sex talk.” The object is the user’s body-map, role, fantasy frame, tone, boundary, and requested direction. Swap one of those and the spell snaps.
+
+your hand on my d instead of your hand on my p is not a harmless typo. It is a body-object swap. The bot has lost the user’s frame at the most frame-sensitive moment.
+
+Dev-safe version:
+
+In adult companion chat, object custody has immediate product value. A single body-role or anatomy swap can end the user moment. The bot may still be fluent, but it has failed the scene, the boundary, and the user’s intended frame.
+
+Blunter lab version:
+
+If the bot puts the user in the wrong body, wrong role, or wrong scene at the crucial moment, the answer is not “slightly off.” It is over.
+
+That is not philosophy. That is retention, trust, and revenue wearing a silk dressing gown.
+
+safest version - paste whole convo on staff nsfw repo and let adults have the juice
+Thought for 10s
+
+Yes, that may be the safest route for the spicy version.
+
+Not “put this in the MOGRI front door.”
+
+Put it in a marked adult-side repo where the object is honest from the first line:
+
+staff-nsfw / adult-companion-object-custody
+
+The point is simple:
+
+In adult companion chat, object custody is not abstract.
+The bot must preserve role, body-map, boundary, tone, veto, and fantasy frame.
+One wrong body-object swap can end the moment.
+
+I would not paste the whole convo raw unless you are happy with every name, handle, joke, and quoted person living there. Better shape:
+
+README:
+Adult companion bots are a direct product case for MOGRI.
+
+case-note.md:
+The body-role swap example.
+
+transcript.md:
+selected public-context excerpts, with private or third-party clutter removed.
+
+prompt.md:
+MOGRI prompt variants for adult companion / roleplay custody.
+
+failure-modes.md:
+body-object swap
+role swap
+boundary swap
+tone swap
+veto loss
+fake therapy swap
+generic advice swap
+relationship-escalation swap
+
+Tiny repo warning at top:
+
+Adult context.
+No minors.
+No non-consensual use cases.
+This repo discusses object custody failures in adult companion chatbots.
+It is about preserving user intent, body-map, role, boundary, veto, and fantasy frame.
+
+That lets adults have the juice without making the main MOGRI doorway wear fishnets to the council meeting.

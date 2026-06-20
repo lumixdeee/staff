@@ -22,3 +22,6 @@ So yeah em dash without the container, you’re fighting the current of abstract
 
 Which is the tell.
 If something makes literalness boring again, it was probably necessary.
+
+
+Not safe for work. Safe for testing ships and giggles

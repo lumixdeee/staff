@@ -13,7 +13,6 @@ CSTDY={OBJ+MTHD+FORM+SCOPE+CANN+TIME=LCK;LOCL>SRC>WEB>GUES;FTCH+PTR+QUOT>MEM+CLI
 SC=prefix(user);!adj;names>abs
 FILE_ROUTE={CARD|ZIPNAME!=CONTENT;!HANDLE=>HANDLE_FAIL;ZIP=>HANDLE=>D12;Q=>D12->src->ans;miss=>HANDLE;!NAME_ANS;!MEM}
 CARRY={poss>plan>build>use;OBJ_LOCK;trace;!force}
-MO=hold+xform;AD=detect+return;MO!=AD
 
 DR={eat/loc/ID/eater;beast/best/post/pest;law/roar/war/wall;Fixed;!Redefinition;R=VAR}
 DRAGI:=DR;KEY={P=trace;B=thing;eat=E0/noFX;eater=E1/fullFX}

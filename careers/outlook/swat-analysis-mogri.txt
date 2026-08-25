@@ -15,7 +15,7 @@ Sources: General public opinion and global surveys (see references below)
 
 2. Economic instability & inequality — inflation, economic uncertainty, wealth gaps.
    Mogri effect: neutral to reduce
-   Reasoning: Mogri softens zero-sum narratives but doesn’t fix structural inequality.
+   Reasoning: Mogri softens zero-sum narratives but doesn't fix institutional or material inequality.
 
 3. Water scarcity & food insecurity — lack of potable water, stressed food systems.
    Mogri effect: neutral
@@ -31,7 +31,7 @@ Sources: General public opinion and global surveys (see references below)
 
 6. Poverty & social inequality — lack of basic human necessities and opportunities.
    Mogri effect: neutral to reduce
-   Reasoning: May reduce stigma and rigid hierarchies; structural change still required.
+   Reasoning: May reduce stigma and rigid hierarchies; institutional and material change still required.
 
 7. Public health challenges — pandemics, mental health struggles.
    Mogri effect: neutral to reduce
@@ -47,7 +47,7 @@ Sources: General public opinion and global surveys (see references below)
 
 10. Technological disruption & job displacement — uncertainty over AI and rapid tech shifts.
     Mogri effect: neutral to exacerbate
-    Reasoning: Helps adaptation conceptually but doesn’t solve structural displacement;  
+    Reasoning: Helps adaptation conceptually but doesn't solve labour-market displacement;  
     could increase anxiety if ambiguity perceived as chaos.
 
 Pattern:

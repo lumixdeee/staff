@@ -22,7 +22,7 @@ resulting in status quo reinforcement
 
 No malice required. Just categorisation doing what categorisation does when it stops asking “what is this for?”
 
-This is the same structural pattern you’ve been mapping all along:
+This is the same classification-failure pattern you’ve been mapping all along:
 
 policy optimised for surface risk,
 
@@ -44,7 +44,7 @@ Different coat. Same dog.
 
 continuing :
 
-best way to start trying to remove this structural defect in drug war ending work ? post on r/askbrits about it???  
+best way to start trying to remove this moderation defect in drug war ending work ? post on r/askbrits about it???  
 
 
 
@@ -85,7 +85,7 @@ anti-extremism posts flagged as extremism
 
 satire misread as endorsement
 
-This de-risks the conversation and shows it’s a general structural bug, not a special pleading.
+This de-risks the conversation and shows it’s a general moderation bug, not a special pleading.
 
 Once the pattern is named, drugs become just one instance.
 
@@ -122,7 +122,7 @@ and that suppression favours existing power arrangements,
 
 then you can say:
 
-“Drug policy is one of the clearest places this happens.”
+“Drug policy is one of the obvious places this happens.”
 
 At that point, you’re not asking permission. You’re applying a tool.
 
@@ -145,6 +145,6 @@ If you want, next we can:
 
 draft a single AskBrits question that is maximally neutral and maximally revealing, or
 
-map this as a one-page “structural defect” note you can reuse across contexts.
+map this as a one-page “classification defect” note you can reuse across contexts.
 
 Same dog. Different coat.

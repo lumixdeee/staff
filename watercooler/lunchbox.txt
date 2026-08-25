@@ -4,7 +4,7 @@ Any that are suitable as logo stock are marked with an '*'
 
 
 meme – started as a coined term, now fully genericised; pure container for transmissible cultural units
-hashtag – structural marker, not owned, functions as an index container
+hashtag – an index marker, not owned, functions as an index container
 sandbox – abstracted from play to computing to policy; nobody owns it anymore
 framework – pure scaffolding word, endlessly reused, zero royalties
 ecosystem – borrowed metaphor turned universal container
@@ -21,7 +21,7 @@ interface – boundary container, generic as air
 pattern – abstract container for repetition
 archetype – pre-IP Jungian container
 genre – classification container, legally inert
-format – structural container, zero ownership
+format - layout container, zero ownership
 schema – formal container, especially safe
 module – functional container, no narrative claims
 primitive – foundational container (as in computing / language)

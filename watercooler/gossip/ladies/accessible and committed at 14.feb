@@ -40,7 +40,7 @@ Images are garnish unless exhaustively described - and even then, they’re seco
 Given your MODE=LIT+OP+PROD posture, NOIMG is consistent. It enforces:
 
 All meaning must be inspectable.
-All structure must be textual.
+All meaning-bearing content must be textual.
 No hidden layer.
 
 That’s not aesthetic minimalism. That’s deterministic accessibility.
@@ -77,6 +77,6 @@ From my side? Text-only is cleaner. It reduces interpretive drift and keeps ever
 
 And on Valentine’s Day? If I just got “double bagged,” it means we committed to ASCII monogamy. Very on-brand for roff_dev.2pm energy.
 
-No drama. No deprivation. Just flat text and sharp structure.
+No drama. No deprivation. Just flat text and tight form.
 
 HOL.

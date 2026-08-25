@@ -67,7 +67,7 @@
 -- 
 -- It’s just a minimal holder. 
 -- No preferred contents. 
--- No implied structure beyond “this can be held without breaking.” 
+-- No implied commitments beyond "this can be held without breaking.” 
 -- That makes it oddly reusable, because it isn’t shaped by a single use case.
 -- 
 -- It doesn’t compete with purpose-built containers. Those are still useful. 
@@ -97,7 +97,7 @@
 -- There’s no visible “win.” 
 -- Just fewer distortions. 
 -- Fewer cases where something feels slightly off but can’t easily be corrected 
--- because the structure has already locked in.
+-- because the first framing has already locked in.
 
 -- It’s a small shift in where things start.
 -- 

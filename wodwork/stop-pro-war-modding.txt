@@ -4,5 +4,5 @@ they classify it by keywords rather than intent?
 For example, anti-war posts flagged as “war content”, satire treated as endorsement,  
 or critique of a policy being removed under rules meant to stop promotion of that same policy.
 
-I’m curious whether people see this as an unavoidable trade-off, or a structural flaw in  
+I’m curious whether people see this as an unavoidable trade-off, or a classification flaw in  
 how large platforms moderate discussion.
